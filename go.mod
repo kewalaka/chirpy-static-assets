@@ -1,3 +1,3 @@
-module github.com/geekifan/chirpy-static-assets
+module github.com/kewalaka/chirpy-static-assets
 
-go 1.24.2
+go 1.25.1
